@@ -1,0 +1,13 @@
+{
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "/Users/simonecavion/Documents/GitHub/javafx-sdk-20/lib/javafx-swt.jar",
+        "/Users/simonecavion/Documents/GitHub/javafx-sdk-20/lib/javafx.base.jar",
+        "/Users/simonecavion/Documents/GitHub/javafx-sdk-20/lib/javafx.controls.jar",
+        "/Users/simonecavion/Documents/GitHub/javafx-sdk-20/lib/javafx.fxml.jar",
+        "/Users/simonecavion/Documents/GitHub/javafx-sdk-20/lib/javafx.graphics.jar",
+        "/Users/simonecavion/Documents/GitHub/javafx-sdk-20/lib/javafx.media.jar",
+        "/Users/simonecavion/Documents/GitHub/javafx-sdk-20/lib/javafx.swing.jar",
+        "/Users/simonecavion/Documents/GitHub/javafx-sdk-20/lib/javafx.web.jar"
+    ]
+}
